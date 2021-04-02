@@ -43,4 +43,3 @@ if __name__ == '__main__':
 
 # Satisfied, she goes back to sleep
 
-browser.quit()
